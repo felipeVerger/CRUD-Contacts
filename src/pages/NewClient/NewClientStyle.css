@@ -1,0 +1,23 @@
+.new-client-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    padding: 4rem;
+}
+
+h1 {
+    color: var(--primary-color);
+    font-size: 3em;
+    font-family: var(--font-heading);
+    font-weight: bold;
+}
+
+span {
+    color: var(--quinary-color);
+    font-size: 1.2em;
+    font-family: var(--font-base);
+}
+

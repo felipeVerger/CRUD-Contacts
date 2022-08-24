@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "name": "Felipe Verger",
+      "company": "Digital House",
+      "email": "felipeverger@gmail.com",
+      "tel": "1149458678",
+      "notes": "Estudiante DH",
+      "id": 1
+    },
+    {
+      "name": "Juanse Avendaño",
+      "company": "Bedes",
+      "email": "juanse@gmail.com",
+      "tel": "425465465",
+      "notes": "Hola me llamo juanse",
+      "id": 2
+    }
+  ]
+}

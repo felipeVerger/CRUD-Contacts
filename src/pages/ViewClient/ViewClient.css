@@ -1,0 +1,66 @@
+.contact-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6rem;
+    padding: 4rem 12rem;
+}
+
+.contact-left {
+    background-color: var(--secondary-color);
+    padding: 2rem;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2rem;
+    border-radius: 4px;
+}
+
+.info-block {
+    display: flex;
+    align-items: center;
+    gap: 4rem;
+}
+
+.info-block-labels {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2rem;
+}
+
+.info-block-labels span {
+    font-family: var(--font-base);
+    font-size: 1.2rem;
+    color: white;
+}
+
+.info-block-user {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 2rem;
+}
+
+.info-block-user p {
+    font-family: var(--font-base);
+    font-size: 1.2rem;
+    color: var(--primary-color);
+}
+
+.error-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.error-block h1 {
+    font-family: var(--font-heading);
+    font-size: 2em;
+    color: rgb(136, 0, 0);
+}
